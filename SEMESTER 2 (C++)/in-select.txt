@@ -1,0 +1,4 @@
+N 4 I PL A PL I TP A TP
+N 2 I PL I PL
+N 1 A PL
+Y 3 I TP A CF I CF
